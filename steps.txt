@@ -1,0 +1,33 @@
+initialize uv ---- uv init.
+
+create uv venv
+
+activate virtual environment .venv\Scripts\activate
+
+create project structure
+    data/
+    src/
+    api/
+    models/
+ 
+inside them create files 
+        data/feedback.csv
+
+        src/preprocessing.py
+        src/feature_engineering.py
+        src/sentiment_model.py
+        src/issue_classifier.py
+        src/priority_logic.py
+
+        api/main.py
+
+        requirements.txt
+        README.md
+
+add sample data to data/feedback.csv
+
+install requirements.txt   uv pip install -r requirements.txt
+
+upload to git till now
+
+-------------------------------------------------------------------

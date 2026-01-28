@@ -1,0 +1,9 @@
+feedback_text,sentiment
+"Payment was deducted but course not unlocked",negative
+"Unable to login after recent update",negative
+"App crashes frequently during usage",negative
+"Very good course and helpful instructor",positive
+"Excellent content quality and support",positive
+"Course content is okay, could be improved",neutral
+"Refund not received even after 7 days",negative
+"Login issue resolved quickly, thanks",positive
