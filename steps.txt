@@ -31,3 +31,20 @@ install requirements.txt   uv pip install -r requirements.txt
 upload to git till now
 
 -------------------------------------------------------------------
+
+in src folder 
+ 
+in preprocessing.py -  intsll nltk 
+    Clean and preprocess input text.
+
+    Steps:
+    1. Convert to lowercase
+    2. Remove punctuation and special characters
+    3. Tokenize text
+    4. Remove stopwords
+    5. Lemmatize words
+
+ create a test_preprocessing.py to test preprocess.py for sample text 
+  run python test_preprocessing.py
+
+-------------------------------------------------------------------------
