@@ -51,7 +51,7 @@ in preprocessing.py -  intsll nltk
 
 in src/feature_engineering.py ---- apply tf-idf and preprocessand vectorize clean text
 
-now in src/sentiment_model.py apply mlmodels for sentiment analysis  run this file and you see
+now in src/sentiment_model.py apply mlmodels for sentiment analysis  run this file and you see   python -m src.sentiment_model 
 
 model is save in .pkl format in models format
 
@@ -72,5 +72,9 @@ in uvicorn
 ----------------------------------------------------------------
 
 now run the server and test this on postman -- make sure your server is on 
-create a new request in postman and test this
+create a new request in postman and test this  
+
+post -   http://127.0.0.1:8000/analyze
+raw body text=json
+send request and test 
 ------------------------------------
