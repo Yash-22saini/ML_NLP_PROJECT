@@ -1,9 +1,25 @@
 feedback_text,sentiment
 "Payment was deducted but course not unlocked",negative
+"Refund not received even after 10 days",negative
 "Unable to login after recent update",negative
-"App crashes frequently during usage",negative
+"App crashes frequently while watching videos",negative
+"Course videos are not loading properly",negative
+"Payment failed but money was deducted",negative
+"Login page keeps showing error",negative
+"Technical issue while accessing dashboard",negative
+
 "Very good course and helpful instructor",positive
-"Excellent content quality and support",positive
+"Excellent content quality and clear explanations",positive
+"Loved the course experience overall",positive
+"Support team resolved my issue quickly",positive
+"Very smooth learning experience",positive
+"Great platform and easy to use",positive
+"Course material is well structured",positive
+"Highly recommended course",positive
+
 "Course content is okay, could be improved",neutral
-"Refund not received even after 7 days",negative
-"Login issue resolved quickly, thanks",positive
+"Content quality is average",neutral
+"Nothing special, but acceptable",neutral
+"Course is fine but videos are long",neutral
+"Overall experience is decent",neutral
+"Platform works fine, no major issues",neutral

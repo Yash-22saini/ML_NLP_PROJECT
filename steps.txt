@@ -48,3 +48,29 @@ in preprocessing.py -  intsll nltk
   run python test_preprocessing.py
 
 -------------------------------------------------------------------------
+
+in src/feature_engineering.py ---- apply tf-idf and preprocessand vectorize clean text
+
+now in src/sentiment_model.py apply mlmodels for sentiment analysis  run this file and you see
+
+model is save in .pkl format in models format
+
+--------------------------------------------------------------
+
+now in src/issue_classifier.py we dentify what kind of problem the feedback talks about using nlp
+
+created a test_issue.py for testing the code 
+---------------------------------------------------------------
+
+now in src/priority_logic.py we prioritize our feedback to  Convert sentiment + issue into business urgency
+
+----------------------------------------------------------------
+
+now in api - main .py we import all src files , load data ,fetch data , make routes and run this
+in uvicorn 
+
+----------------------------------------------------------------
+
+now run the server and test this on postman -- make sure your server is on 
+create a new request in postman and test this
+------------------------------------
