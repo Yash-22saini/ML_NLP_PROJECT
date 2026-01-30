@@ -79,3 +79,7 @@ raw body text=json
 send request and test 
 ------------------------------------
 
+created a database.py in src folder 
+setup connection of sql using musqlconnector and credentials are importing from .env file
+updated the main.py file in api folder and added sql connection and to get or fetch data endpoints.
+-----------------------------------------------------------------------
