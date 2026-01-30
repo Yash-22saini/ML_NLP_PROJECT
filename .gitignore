@@ -10,3 +10,6 @@ __pycache__/
 
 # Model files (will add later if needed)
 models/*.pkl
+
+.env
+.env/

@@ -4,3 +4,7 @@ scikit-learn
 nltk
 fastapi
 uvicorn
+mysql-connector-python
+sqlalchemy 
+pymysql
+python-dotenv
